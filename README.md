@@ -96,7 +96,7 @@ param_pk:返回从哪个pk开始之前的信息。
 
 【参数说明】
 
-  param_count:返回最新products信息的条数（比如10，意思就是获取最新10条news信息）。
+param_count:返回最新news信息的条数（比如10，意思就是获取最新10条news信息）。
 
 【返回结果】
 
@@ -178,7 +178,7 @@ param_pk:返回从哪个pk开始之前的信息。
 
 【参数说明】
 
-  param_count:返回最新products信息的条数（比如10，意思就是获取最新10条design信息）。
+param_count:返回最新design信息的条数（比如10，意思就是获取最新10条design信息）。
 
 【返回结果】
 
@@ -256,7 +256,7 @@ param_pk:返回从哪个pk开始之前的信息。
 
 【参数说明】
 
-  param_count:返回最新products信息的条数（比如10，意思就是获取最新10条development信息）。
+param_count:返回最新development信息的条数（比如10，意思就是获取最新10条development信息）。
 
 【返回结果】
 
@@ -349,7 +349,7 @@ param_pk:返回从哪个pk开始之前的信息。
 
 【参数说明】
 
-  param_count:返回最新products信息的条数（比如10，意思就是获取最新10条marketing信息）。
+param_count:返回最新marketing信息的条数（比如10，意思就是获取最新10条marketing信息）。
 
 【返回结果】
 
